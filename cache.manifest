@@ -1,0 +1,17 @@
+{
+  "name": "Dumb Task Tracker",
+  "description": "If you keep it open you can keep track of your tasks,
+  "launch_path": "/",
+	"start_url":"/",
+  "icons": [{
+    "src": "/iconICanUse.png",
+		"sizes": "128x128",
+		"type": "image/png"
+  }],
+  "developer": {
+    "name": "Boyan",
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true },
+	"appcache_path": "/cache.manifest"
+}

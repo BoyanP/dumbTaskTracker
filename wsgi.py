@@ -24,9 +24,10 @@ def application(environ, start_response):
     else:
         ctype = 'text/html'
         response_body = '''<!DOCTYPE html>
-<html manifest="/cache.manifest">
+<html>
 <head>
   <title> CMPUT 496 task tracker</title>
+	<link rel="manifest" href="/cache.manifest"/>
   <link rel="stylesheet" type="text/css" href="tasktracker.css">
 	<style>
 .header{
