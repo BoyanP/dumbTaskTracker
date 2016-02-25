@@ -13,5 +13,7 @@
   },
   "default_locale": "en",
   "chrome": { "navigation": true },
-	"appcache_path": "/cache.manifest"
+	"display": "standalone",
+	"appcache_path": "/cache.manifest",
+	
 }

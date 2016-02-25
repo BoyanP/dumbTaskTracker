@@ -27,7 +27,7 @@ def application(environ, start_response):
 <html>
 <head>
   <title> CMPUT 496 task tracker</title>
-	<link rel="manifest" href="/cache.manifest"/>
+	<link rel="manifest" href="/manifest.json"/>
   <link rel="stylesheet" type="text/css" href="tasktracker.css">
 	<style>
 .header{
