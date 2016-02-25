@@ -1,6 +1,6 @@
 {
   "name": "Dumb Task Tracker",
-  "description": "If you keep it open you can keep track of your tasks,
+  "description": "If you keep it open you can keep track of your tasks",
   "launch_path": "/",
 	"start_url":"/",
   "icons": [{
